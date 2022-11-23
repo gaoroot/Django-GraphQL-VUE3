@@ -1,0 +1,28 @@
+[
+    {
+        "model": "api.post",
+        "pk": 1,
+        "fields": {
+            "title": "The One Thing 1",
+            "body": "Проверка body 1"
+        }
+    },
+
+    {
+        "model": "api.post",
+        "pk": 2,
+        "fields": {
+            "title": "Python Crash Course 2",
+            "body": "Eric Matthes Проверка body 2"
+        }
+    },
+
+    {
+        "model": "api.post",
+        "pk": 3,
+        "fields": {
+            "title": "Atomic Habits 3",
+            "body": "James Clear Проверка body 3"
+        }
+    }
+]
